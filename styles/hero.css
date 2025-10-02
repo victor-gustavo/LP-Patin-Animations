@@ -29,7 +29,7 @@ section.hero{
         color: var(--snitap-sky-mid);
     }
 
-    & h1 span{
+     & h1 span{
         display: block;
         animation: slideUp 6s 2s infinite;
     }
