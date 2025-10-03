@@ -40,7 +40,6 @@
 
 html, button{
     font: var(--button-label);
-    zoom: .5;
 }
 
 h1{
